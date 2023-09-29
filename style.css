@@ -1,0 +1,35 @@
+body{
+	background: -webkit-linear-gradient(right, hsl(0, 0%, 0%), hsl(0, 0%, 0%), hsl(0, 0%, 0%));
+	background: -moz-linear-gradient(right, hsl(0, 0%, 0%), hsl(0, 0%, 0%), hsl(0, 0%, 0%));
+	background: -o-linear-gradient(right, hsl(0, 0%, 0%), hsl(0, 0%, 0%), hsl(0, 0%, 0%));
+	background: linear-gradient(to right, hsl(0, 0%, 0%), hsl(0, 0%, 0%), hsl(0, 0%, 0%));
+	color: hsl(0, 56%, 98%);
+}
+
+h1{
+	color: hsl(184, 25%, 87%);
+	text-shadow:0 0 20px rgb(7, 226, 208);
+	font-family: times new roman, arial;
+}
+
+h2{
+	color: hsl(235, 17%, 85%);
+	text-shadow:0 0 20px rgb(7, 217, 224);
+	font-family: times new roman, arial;
+}
+
+h3{
+	color: hsl(0, 32%, 91%);
+	text-shadow:0 0 20px rgb(7, 199, 212);
+	font-family: times new roman, arial;
+}
+
+h4{
+	color: hsl(180, 29%, 91%);
+	text-shadow:0 0 20px rgb(7, 186, 218);
+	font-family: times new roman, arial;
+}
+
+h5{
+	color: rgb(220, 231, 231);
+}
